@@ -1,0 +1,82 @@
+id,match_score,label,left_Description,left_Price,left_Color,right_Price,right_Color,right_Description
+3,0.8854695558547974,1,Shiseido veiled rouge,$25.00,PK304 Skyglow,$45.14,PK304 Skyglow,Shiseido Veiled Rouge Lipstick - PK304 Skyglow
+8,0.5554152727127075,0,Dior star concealer,$36.00,005 Mocha,$29.95,002 Beige,"Christian Dior Diorskin Star Sculpting Brightening Concealer - # 002 Beige Christian Dior Women - 0.2 Oz Concealer, 0.2 Ounce"
+22,0.38061100244522095,0,MAKE UP FOR EVER artist plexi gloss,$19.00,400,$30.80,403,Make up for Ever Artist Plexi Gloss Lip Lacquer 403 - Red (Opaque)
+23,0.25695323944091797,0,MAKE UP FOR EVER artist plexi gloss,$19.00,306,$30.85,406,Make up for Ever Artist Plexi Gloss Lip Lacquer 406 - Burgundy (Opaque)
+25,0.4992164671421051,0,Giorgio Armani lasting silk uv foundation spf 20,$62.00,2,$62.00,,Giorgio Armani 'Lasting Silk' UV Foundation SPF 20
+26,0.24575158953666687,0,Giorgio Armani lasting silk uv foundation spf 20,$62.00,5,$62.00,,Giorgio Armani 'Lasting Silk' UV Foundation SPF 20
+41,0.2441679984331131,0,Too Faced melted liquified long wear lipstick,$21.00,Melted Berry,$39.75,Melted Velvet,Too Faced - Melted Liquified Long Wear Lipstick - Melted Velvet
+54,0.47063589096069336,1,Hourglass ambient lighting edit,$80.00,,$150.12,,Hourglass Ambient Lighting Edit
+55,0.15334929525852203,0,Dior diorskin forever compact flawless perfection fusion wear makeup spf 25,$52.00,Ivory 010,$80.00,Medium Beige 030,Exclusive By Christian Dior Diorskin Forever Compact Flawless Perfection Fusion Wear Makeup SPF 25 - #030 Medium Beige 10g/0.35oz
+57,0.2334349900484085,0,COVER FX blotting powder,$24.00,Deep,$40.00,Medium,COVER FX Matte Oil Absorbing Primer & Blotting Powder - Medium
+58,0.2334349900484085,0,COVER FX blotting powder,$24.00,Deep,$40.00,Medium,COVER FX Matte Oil Absorbing Primer & Blotting Powder - Medium
+61,0.5494779348373413,1,COVER FX blotting powder,$24.00,Medium,$40.00,Medium,COVER FX Matte Oil Absorbing Primer & Blotting Powder - Medium
+65,0.5917558670043945,0,Dior airflash matte touch,$50.00,,$58.00,,Dior Airflash Matte Touch Long-Lasting Airy Powder Finishing Spray
+69,0.08469057828187943,0,Laura Mercier mineral powder spf 15,$39.00,Classic Beige,$47.04,Tender Rose,Laura Mercier Mineral Pressed Powder SPF 15 Tender Rose 0.28 oz./8.1g
+70,0.619199275970459,0,Dior diorshow mascara,$27.50,Black 090,$29.44,099 Kohl Black,Christian Dior 10ml/0.33oz Diorshow Black Out Mascara Waterproof - # 099 Kohl Black
+75,0.5760911107063293,0,Dior diorshow mascara,$27.50,Black 090,$59.99,099 Kohl Black,Dior Diorshow Black Out Mascara Size 0.33 Oz Color Kohl Black 099 - Rich Black
+77,0.257190078496933,0,Dior diorshow mascara,$27.50,Brown 698,$59.99,099 Kohl Black,Dior Diorshow Black Out Mascara Size 0.33 Oz Color Kohl Black 099 - Rich Black
+84,0.3629777431488037,0,Giorgio Armani luminous silk foundation,$62.00,2,$62.00,4.75,"Giorgio Armani Luminous Silk Foundation 1oz - # 4.75, (BNIB)"
+95,0.054399240761995316,0,Bobbi Brown foundation stick,$44.00,Beige,$53.00,Warm Sand,Bobbi Brown Foundation Stick Warm Sand # 2.5 Full Size (Box)
+97,0.0423276424407959,0,Bobbi Brown foundation stick,$44.00,Golden Natural,$53.00,Warm Sand,Bobbi Brown Foundation Stick Warm Sand # 2.5 Full Size (Box)
+104,0.12221665680408478,0,Bobbi Brown foundation stick,$44.00,Warm Almond,$53.00,Warm Sand,Bobbi Brown Foundation Stick Warm Sand # 2.5 Full Size (Box)
+110,0.12691065669059753,0,Bobbi Brown foundation stick,$44.00,Warm Natural,$53.00,Warm Sand,Bobbi Brown Foundation Stick Warm Sand # 2.5 Full Size (Box)
+117,0.12232629209756851,0,Dior diorskin nude skin glowing makeup spf 15,$48.00,Dark Brown 070,$71.41,Cameo 022,Christian Dior Diorskin Nude Skin Glowing Makeup SPF 15 - # 022 Cameo 30ml/1oz
+127,0.534839391708374,1,CLINIQUE chubby stick shadow tint for eyes,$17.00,Portly Plum,$15.95,Portly Plum,"Clinique Chubby Stick Shadow Tint for Eyes, shade=Portly Plum"
+130,0.6788451075553894,0,NARS brow gel,$23.00,,$25.17,Kinshasa,Nars Brow Gel Kinshasa 7Ml/0.21Oz
+134,0.25852811336517334,0,stila illuminating powder foundation,$28.00,40 Watts,$14.00,,stila Illuminating Powder Foundation Refillable Compact
+142,0.11389479786157608,0,NARS larger than life lip gloss,$26.00,Spring Break,$14.99,Shimmering Vibrant Pink,Nars Larger Than Life Lip Gloss Color Coeur Sucre - Shimmering Vibrant Pink
+149,0.08712180703878403,0,Guerlain terracotta bronzing powder,$53.00,7,$49.95,1,"Guerlain Terracotta Bronzing Powder, Moisturizing and Long Lasting, # 01, 0.35 Ounce"
+150,0.11030509322881699,0,Guerlain terracotta bronzing powder,$53.00,8,$49.95,1,"Guerlain Terracotta Bronzing Powder, Moisturizing and Long Lasting, # 01, 0.35 Ounce"
+152,0.9184180498123169,1,Guerlain terracotta bronzing powder,$53.00,1,$47.00,1,Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - No. 01 - Guerlain - Powder - Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - 10g/0.35oz
+153,0.07431074976921082,0,Guerlain terracotta bronzing powder,$53.00,3,$47.00,1,Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - No. 01 - Guerlain - Powder - Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - 10g/0.35oz
+154,0.13871777057647705,0,Guerlain terracotta bronzing powder,$53.00,4,$47.00,1,Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - No. 01 - Guerlain - Powder - Terracotta Bronzing Powder ( Moisturising & Long Lasting ) - 10g/0.35oz
+165,0.4480336606502533,0,Smashbox 24 hour cc spot concealer,$25.00,Fair Light,$23.00,Medium Light,Smashbox 24 Hour CC Spot Concealer - Medium/Light 0.08oz
+167,0.442126601934433,0,Blinc mascara amplified,$26.00,Dark Brown,$26.00,Black,blinc Mascara Amplified
+177,0.10931476205587387,0,CLINIQUE chubby stick moisturizing lip colour balm,$17.00,Voluptuous Violet,$17.50,Chunky Cherry,Clinique Chubby Stick Moisturizing Lip Colour Balm - 05 Chunky Cherry - Duo Pack (0.04 oz X 2 = 0.08 oz / 2.4 g)
+179,0.007243654225021601,0,CLINIQUE chubby stick moisturizing lip colour balm,$17.00,Two Ton Tomato,$52.78,"""Woppin"""" Watermelon""",Clinique - Chubby Stick Moisturizing Lip Colour Balm - # 6 Woppin' Watermelon (0.1 oz.) 1 pcs sku# 1900553MA
+182,0.47909027338027954,1,Giorgio Armani waterproof smooth silk eye pencil,$28.00,Brown,$28.00,Brown,Giorgio Armani Waterproof Smooth Silk Eye Pencil - # 02 (Brown) 1.2g/0.04oz
+184,0.41674792766571045,0,Shiseido smoothing lip pencil,$20.00,BR607 Coffee Bean,$61.49,RD702 Anemone,Smoothing Lip Pencil - RD702 Anemone by Shiseido - 10076381402
+191,0.9208688735961914,1,Laura Mercier secret brightener,$30.00,#1,$30.00,#1,"Laura Mercier Secret Brightener - Secret Brightener #1, .05 oz."
+196,0.3403339982032776,0,Givenchy noir couture,$33.00,5 Violet Etonnant,$29.69,2 Brown Satin,Givenchy Noir Couture Mascara - # 2 Brown Satin 8g/0.28oz
+197,0.81317138671875,1,Dior diorskin nude skin perfecting hydrating concealer,$34.00,Beige 002,$25.38,Beige 002,Christian Dior Diorskin Nude Skin Perfecting Hydrating Concealer - # 002 Beige 10ml/0.33oz
+200,0.7475026249885559,1,Smashbox brow tech,$26.00,Dark Brown,$22.50,Dark Brown,Smashbox Brow Tech Brunette-Dark Brown
+201,0.2537381052970886,0,Too Faced melted liquified long wear lipstick,$21.00,Melted Berry,$34.98,Melted Rainbow,Too Faced Melted Liquified Long Wear Lipstick - Melted Rainbow Size 0.4 Oz
+206,0.29459649324417114,0,Hourglass modernist eyeshadow palette,$58.00,Monochrome (Rose),$86.00,Obscura (Earth Tones),Hourglass Modernist Eyeshadow Palette - Obscura (Earth Tones)
+210,0.23003311455249786,0,tarte lipsurgence lip tint,$24.00,Elite,$35.40,Energy,Tarte Lipsurgence Skintuitive Lip Tint - Energy (.10 oz)
+232,0.2862163484096527,1,CLINIQUE even better makeup spf 15,$27.00,Vanilla,$34.40,Vanilla,Clinique Even Better Compact Makeup SPF 15 - # 14 Vanilla (MF-G) 10g/0.35oz
+238,0.6500788331031799,1,Guerlain kisskiss roselip,$37.00,Pink Me Up R373,$54.99,Pink Me Up,Guerlain KissKiss Roselip Lip Balm - Pink Me Up R373
+242,0.13874877989292145,0,MAKE UP FOR EVER pro finish multi use powder foundation,$36.00,118 Neutral Beige,$48.40,Neutral Saffron,Make Up For Ever Pro Finish Multi Use Powder Foundation - # 174 Neutral Saffron 10g/0.35oz
+244,0.7677744626998901,1,NARS all day luminous weightless foundation,$48.00,Mont Blanc,$48.00,Mont Blanc,"NARS All Day Luminous Weightless Foundation, shade=Mont Blanc"
+255,0.0509197823703289,0,Bobbi Brown long wear even finish foundation spf 15,$48.00,Espresso,$57.00,Chestnut,Bobbi Brown Long Wear Even Finish Foundation SPF 15 - # 9 Chestnut 30ml/1oz
+256,0.03630576655268669,0,Bobbi Brown long wear even finish foundation spf 15,$48.00,Warm Beige,$57.00,Chestnut,Bobbi Brown Long Wear Even Finish Foundation SPF 15 - # 9 Chestnut 30ml/1oz
+263,0.07829722762107849,0,Bobbi Brown long wear even finish foundation spf 15,$48.00,Warm Sand,$57.00,Warm Walnut,Bobbi Brown Long Wear Even Finish Foundation SPF 15 - # 7.5 Warm Walnut 30ml/1oz
+264,0.353050172328949,1,Smashbox halo hydrating perfecting powder,$22.00,Light/ Medium,$39.99,Light/Medium,"smashbox Halo Hydrating Perfecting Powder, Light/Medium, .50 oz."
+267,0.47063589096069336,1,Hourglass ambient lighting edit,$80.00,,$150.12,,Hourglass Ambient Lighting Edit
+271,0.2929131090641022,0,Hourglass ambient lighting blush,$35.00,Ethereal Glow,$120.00,,Hourglass Ambient Lighting Blush Palette 2014
+277,0.14290523529052734,0,Laura Mercier eye colour,$24.00,African Violet,$45.79,,"Laura Mercier Artists Palette For Eyes & Cheeks (8x Eye Colour, 1x Highlighter) -"
+289,0.04829099401831627,0,Bobbi Brown bronzing powder,$40.00,Golden Light,$39.99,Tawny Brown,"Bobbi Brown Bronzing Powder - Tawny Brown 0.28 Oz, (BNIB)"
+298,0.6531400084495544,1,Bite Beauty discovery set,$55.00,,$81.95,,Bite Beauty Discovery Set
+308,0.27438563108444214,0,Estee Lauder double wear stay in place makeup,$38.00,Fresco 2C3,$40.91,26,Estee Lauder Double Wear Light Stay In Place Makeup SPF10 - # 26 (Intensity 3.5) - 30ml/1oz
+309,0.24761362373828888,0,Estee Lauder double wear stay in place makeup,$38.00,Fresco 2C3,$64.00,14,Estee Lauder Double Wear Light Stay In Place Makeup SPF10 - # 14 (Intensity 5.0) 30ml/1oz
+312,0.8365395665168762,1,bareMinerals secret weapon trade correcting concealer touch up veil duo,$29.00,Light 2,$20.44,Light 2,BareMinerals Secret Weapon Correcting Concealer and Touch Up Veil Duo Light 2
+313,0.7056648135185242,1,CLINIQUE brow shaper,$16.50,Charcoaled,$23.99,Charcoaled,Clinique Brow Shaper 05 Charcoaled
+317,0.33620861172676086,0,CLINIQUE brow shaper,$16.50,Soft Brown,$29.90,Charcoaled,Clinique Brow Shaper Charcoaled
+318,0.40289226174354553,0,CLINIQUE brow shaper,$16.50,Wheat,$29.90,Charcoaled,Clinique Brow Shaper Charcoaled
+320,0.024582771584391594,0,Bobbi Brown foundation stick,$44.00,Alabaster,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+323,0.015667831525206566,0,Bobbi Brown foundation stick,$44.00,Golden Honey,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+330,0.021205410361289978,0,Bobbi Brown foundation stick,$44.00,Walnut,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+335,0.18638934195041656,1,Bobbi Brown foundation stick,$44.00,Warm Ivory,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+336,0.18638934195041656,1,Bobbi Brown foundation stick,$44.00,Warm Ivory,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+337,0.05344923213124275,0,Bobbi Brown foundation stick,$44.00,Warm Natural,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+342,0.051364000886678696,0,Bobbi Brown foundation stick,$44.00,Warm Walnut,$58.50,Warm Ivory,Exclusive Make Up Product By Bobbi Brown Foundation Stick - #1 Warm Ivory 9g/0.31oz
+353,0.0925203412771225,0,Bobbi Brown bb cream broad spectrum spf 35,$44.00,Fair,$33.50,Light,Bobbi Brown BB Cream Broad Spectrum SPF 35 - # Light - 40ml/1.35oz
+354,0.6649217009544373,1,Laura Mercier secret concealer,$25.00,2.5,$23.00,2.5,Laura Mercier Secret Concealer - #2.5 2.2g/0.08oz
+355,0.26143091917037964,0,Laura Mercier secret camouflage,$34.00,SC-1,$37.81,SC-3,Laura Mercier Secret Camouflage - # SC3 (Medium with Yellow or Pink Skin Tones) 5.92g/0.207oz
+358,0.27400070428848267,0,Laura Mercier secret camouflage,$34.00,SC-5,$15.00,SC-1,Laura Mercier Secret Camouflage - # SC1 (For Very Fair Skin Tones) - 5.92g/0.207oz
+370,0.03146333619952202,0,Bobbi Brown corrector,$25.00,Dark Peach,$30.58,Light to Medium Bisque,Bobbi Brown Light to Medium Bisque Corrector .05 oz
+371,0.07925509661436081,0,Bobbi Brown corrector,$25.00,Deep Bisque,$30.58,Light to Medium Bisque,Bobbi Brown Light to Medium Bisque Corrector .05 oz
+376,0.2926526963710785,1,Bobbi Brown corrector,$25.00,Bisque,$30.58,Bisque,BOBBI BROWN Corrector - Bisque
+397,0.10733010619878769,0,MAKE UP FOR EVER aqua eyes,$19.00,Dark Grey 21L,$15.92,Turquoise,MAKE UP FOR EVER Aqua Eyes Turquoise 7L
+403,0.8424593806266785,1,Shiseido the makeup powdery foundation,$29.50,I40 Natural Fair Ivory,$29.79,I40 Natural Fair Ivory,Shiseido The Makeup Powdery Foundation I40 - I 40 (Natural Fair Ivory) REFILL Full Size 11 g / .38 oz. In Retail Box. LIMITED EDITION - NO SPF
+406,0.013293699361383915,0,CLINIQUE chubby stick shadow tint for eyes,$17.00,Two Ton Teal,$52.78,Fuller Fudge,Clinique - Chubby Stick Shadow Tint For Eyes - # 03 Fuller Fudge (0.1 oz.) 1 pcs sku# 1900580MA
